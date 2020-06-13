@@ -17,6 +17,7 @@ public class Date05
 			for(int i=0;i<4;i++)
 			{
 			System.out.println(b[i]);
+                 System.out.println("m vicky");
    
 			}
 
