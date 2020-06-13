@@ -7,6 +7,8 @@ public class Date05
 			a[1]=14;
 			
 			System.out.println(a[1]);
+                        System.out.println("my name is vicky");
+                        
 			
 			int[] b={13,42,42,42,};
 		    System.out.println(b[1]);
