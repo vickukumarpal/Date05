@@ -9,6 +9,7 @@ public class Date05
 			System.out.println(a[1]);
                         System.out.println("my name is vicky");
                     System.out.println("m vicky");
+System.out.println("m mmm vicky");
                         
 			
 			int[] b={13,42,42,42,};
